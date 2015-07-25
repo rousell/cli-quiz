@@ -1,3 +1,16 @@
 .block {
   style: block;
+  font-family: Arial;
+  width: 65%;
+  float: left;
 }
+
+.sidebar {
+  float: left;
+  width: 35%;
+}
+
+div.footer {
+  font-family: Tahoma;
+}
+
